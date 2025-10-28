@@ -6,9 +6,9 @@ Figma to WebPage
 
 ---
 ## Time :
-
----
  2 Weeks
+ 
+---
  ## Tools: 
 Figma, Html, css, js
 
