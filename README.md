@@ -13,5 +13,5 @@ Figma to WebPage
 Figma, Html, css, js
 
 ---
-##Color:
- Dynamic Color Compatible
+## Color:
+Dynamic Color Compatible
